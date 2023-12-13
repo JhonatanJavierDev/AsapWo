@@ -61,11 +61,6 @@ The plugin performs the following SAP integration logic during product updates:
 - Ensure that the SAP server is accessible from the WordPress server.
 - Verify the SAP and WooCommerce credentials are accurate for successful integration.
 
-## Credits
-
-- Plugin Name: AsapWo
-- Description: SAP WooCommerce Integration By Jhon Corella
-- Version: 1.0
 - Author: CorellaInnovations
 
 ---
