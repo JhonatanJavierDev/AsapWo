@@ -14,12 +14,6 @@ AsapWo is a WordPress plugin that integrates SAP with WooCommerce, allowing for 
 3. Save the settings.
 
 
-## Installation of automattic/woocommerce, the installation of the liberia is totally necessary.
-
-```php
-composer require automattic/woocommerce
-```
-
 ## Usage
 
 ### SAP Connection Settings
